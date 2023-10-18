@@ -6,6 +6,6 @@
     "localization": "PRIMARY_ONLY",
     "typeId": "decimal",
     "type": {
-        "numberType": {}
+        "decimalType": {}
     }
 }
