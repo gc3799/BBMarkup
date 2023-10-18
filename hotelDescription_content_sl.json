@@ -1,0 +1,11 @@
+{
+    "$id": "c_hotelDescription_content_sl",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "hotelDescription_content_sl",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "markdown",
+    "type": {
+        "markdownType": {}
+    }
+}

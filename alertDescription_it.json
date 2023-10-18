@@ -1,0 +1,11 @@
+{
+    "$id": "c_alertDescription_it",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "alertDescription_it",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "markdown",
+    "type": {
+        "markdownType": {}
+    }
+}

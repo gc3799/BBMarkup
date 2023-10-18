@@ -1,0 +1,11 @@
+{
+    "$id": "c_serviceDescriptionLeft_pt",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "serviceDescriptionLeft_pt",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "markdown",
+    "type": {
+        "markdownType": {}
+    }
+}
